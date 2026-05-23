@@ -7,24 +7,6 @@
    NAVBAR
 ========================= */
 
-nav {
-  width: 100%;
-  padding: 1.5rem 8%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
-  position: sticky;
-  top: 0;
-
-  background: rgba(255, 255, 255, 0.75);
-  backdrop-filter: blur(14px);
-
-  border-bottom: 1px solid #e5ecf8;
-
-  z-index: 1000;
-}
-
 /* =========================
    LOGO
 ========================= */
